@@ -99,7 +99,7 @@ def main():
     # Criar instância da classe
     mars_rover = MarsRoverPhotos(api_key)
     
-    # Coletar dados para um mês específico (exemplo: março de 2024)
+    # Coletar dados para um mês específico
     ano = 2023
     mes = 9
     
